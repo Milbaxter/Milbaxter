@@ -1,6 +1,6 @@
 # Hi, I'm Maximilian 👋
 
-📍 **Finland** | 🤖 **Builder** | 🧠 **AI + Philosophy**
+📍 **San Francisco ↔ Helsinki** | 🤖 **Builder** | 🧠 **AI + Philosophy**
 
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
