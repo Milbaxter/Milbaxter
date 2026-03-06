@@ -40,8 +40,6 @@
 
 - 🗣️ **[Voice Survey](https://github.com/Milbaxter/voice-survey)** - Voice data collection service in Swedish for Finnish speakers
 - 🧬 **[Microbiome PDF Assistant](https://github.com/Milbaxter/MicrobiomePdfAssistant)** - AI-powered PDF analysis for microbiome research
-- 🤖 **[CrewAI](https://github.com/Milbaxter/CrewAI)** - Multi-agent AI research crew for healthcare trends
-- 📝 **[LangChain Hackathon](https://github.com/Milbaxter/LangChain_Hackathon)** - Document analysis and research app
 
 ## Philosophy
 
