@@ -6,7 +6,7 @@ Digital nomad. Building tools and experimenting with AI.
 
 ## Current Project
 
-- [DSH Evolution Lab](https://github.com/Milbaxter/dsh-evolution-lab) — Testing DeepSeek Harness plugins and configurations through reproducible experiments, comparing accuracy, cost, and speed.
+- [Optimal DeepSeek Harness Setup](https://github.com/Milbaxter/optimal-deepseek-harness-setup) — An evolving DeepSeek Harness autonomy lab combining native plugins, open-source research, and evidence-tracked AI reviews.
 
 ## Past Projects
 
@@ -14,6 +14,7 @@ Earlier work, small tools, prototypes, and experiments.
 
 Projects linked under [chief-o-brien-bot](https://github.com/chief-o-brien-bot) come from my AI agent's account.
 
+- [DSH Evolution Lab](https://github.com/Milbaxter/dsh-evolution-lab) (September 2026) — Testing DeepSeek Harness plugins and configurations through reproducible experiments, comparing accuracy, cost, and speed.
 - [Somnus](https://github.com/Milbaxter/somnus) (September 2026) — A sleep community prototype using WHOOP and Oura data, with daily Telegram updates.
 - [Excalibur Harness Loop](https://github.com/Milbaxter/excalibur-harness-loop) (September 2026) — A specification and candidate queue for testing DeepSeek Harness plugins.
 - [AI Book Ideas](https://github.com/Milbaxter/ai-book-ideas) (September 2026) — A shortlist of ideas for AI-assisted books.
