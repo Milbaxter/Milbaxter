@@ -1,5 +1,7 @@
 # Maximilian
 
+Working privately on software for high-trust human relationships.
+
 Helsinki & San Francisco. Digital nomad. Building tools and experimenting with AI.
 
 [Elsewhere](https://linktr.ee/maximilianrehn)
