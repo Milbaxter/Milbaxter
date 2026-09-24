@@ -1,6 +1,6 @@
 # Maximilian
 
-Helsinki & San Francisco. Digital nomad. Building tools and experimenting with AI.
+Helsinki and Digital nomad. Building tools and experimenting with AI.
 
 [Elsewhere](https://linktr.ee/maximilianrehn)
 
