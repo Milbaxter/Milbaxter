@@ -8,6 +8,28 @@ Helsinki and Digital nomad. Building tools and experimenting with AI.
 
 - [Optimal DeepSeek Harness Setup](https://github.com/Milbaxter/optimal-deepseek-harness-setup) — An evolving DeepSeek Harness autonomy lab combining native plugins, open-source research, and evidence-tracked AI reviews.
 
+## Recent Projects
+
+September 2026 additions, newest first. These include prototypes, research plans, reviews, and curated resources; each description reflects the project's current stage.
+
+- [Awesome Helsinki Shared Spaces](https://github.com/Milbaxter/awesome-helsinki-shared-spaces) — A community-maintained directory of Helsinki's shared studios, workshops, and places to meet and collaborate.
+- [Awesome Disease Knowledge](https://github.com/Milbaxter/awesome-disease-knowledge) — A curated list of disease knowledge bases, evidence maps, and research directories, with source and access notes.
+- [Agent Intelligence Lab](https://github.com/Milbaxter/agent-intelligence-lab) — A research plan for scouting and benchmarking improvements to OpenClaw, Hermes, and other agent runtimes across capability, cost, and reliability.
+- [Sovereign Agent Cloud](https://github.com/Milbaxter/sovereign-agent-cloud) — A locally verified implementation for dedicated OpenClaw hosting on UpCloud, with billing, metered inference, and portable state. Not yet deployed.
+- [Morphostasis Longevity](https://github.com/Milbaxter/morphostasis-longevity) — Early computational research into cellular coordination, bioelectric organization, and aging, with reproducible analysis tools and no validated biological findings yet.
+- [Harness Intelligence Improvements](https://github.com/Milbaxter/harness-intelligence-improvements) — A research notebook examining published benchmark evidence for agent harness and memory improvements, including their limits.
+- [SoL-Pi Review](https://github.com/Milbaxter/SoL-Pi) — An independent implementation and benchmark review in a fork of NVIDIA's SoL-Pi. My contribution is documentation; benchmarks have not been independently reproduced.
+- [Harness Watch](https://github.com/Milbaxter/harness-watch) — A guide to following the agent harness ecosystem, contributing to its communities, and designing fair comparisons.
+- [Human Potential Institute](https://github.com/Milbaxter/human-potential-institute) — A proposed research agenda on durable improvements to wellbeing, relationships, and the ability to pursue chosen goals.
+- [Human Diet Institute](https://github.com/Milbaxter/human-diet-institute) — A research agenda for comparing dietary approaches and testing competing explanations for reported benefits. Study development; no findings yet.
+- [Nugget Mode](https://github.com/Milbaxter/nugget-mode) — A format, reusable prompt, and interactive example for presenting complete ideas with expandable context and original sources.
+- [Open Source Jigsaw](https://github.com/Milbaxter/opensource-jigsaw) — An AI-assisted research pipeline exploring unusual open-source combinations, with prototype experiments, independent checks, and documented rejections.
+- [Ideal Personal Context](https://github.com/Milbaxter/ideal-personal-context) — An open concept for turning personal digital history into a private, portable wiki that gives AI useful context.
+- [Wordless Conversation Canvas](https://github.com/Milbaxter/wordless-conversation-canvas) — A prototype that turns live conversation into an animated, wordless scene and lets voice commands reshape it.
+- [Jarvis DeepSeek](https://github.com/Milbaxter/jarvis-deepseek) — A local office assistant combining wake-word voice, Codex workers, Mac context, and a TV workspace. Development preview.
+- [Common / Decision Hub](https://github.com/Milbaxter/decision-hub) — A local application for small teams to record decisions, preserve project context, and track open questions.
+- [Spout Beta Review](https://github.com/Milbaxter/spout-beta-review-2026-09) — A product review documenting devnet testing, transaction evidence, and recommendations for borrowing and purchase flows.
+
 ## Past Projects
 
 Earlier work, small tools, prototypes, and experiments.
