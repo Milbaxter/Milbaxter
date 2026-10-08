@@ -6,7 +6,7 @@ Helsinki and Digital nomad. Building tools and experimenting with AI.
 
 ## Current Project
 
-- [Run Kitty Run](https://runkittyrun.fun) — A game built for fun.
+- [Run Kitty Run](https://runkittyrun.fun) — A game built for fun using a fleet of 10 agents.
 
 ## Recent Projects
 
