@@ -6,7 +6,7 @@ Helsinki and Digital nomad. Building tools and experimenting with AI.
 
 ## Current Project
 
-- [Optimal DeepSeek Harness Setup](https://github.com/Milbaxter/optimal-deepseek-harness-setup) — An evolving DeepSeek Harness autonomy lab combining native plugins, open-source research, and evidence-tracked AI reviews.
+- [Run Kitty Run](https://runkittyrun.fun) — A game built for fun.
 
 ## Recent Projects
 
