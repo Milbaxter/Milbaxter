@@ -20,7 +20,6 @@ September and October 2026, newest first. These include games, prototypes, resea
 - [DSH Small-Model Lab](https://github.com/Milbaxter/dsh-small-model-lab) — Testing DeepSeek Harness plugin setups on Qwen3-8B, with [playbook](https://github.com/Milbaxter/dsh-small-model-lab-playbook) and follow-up runs ([v3](https://github.com/Milbaxter/dsh-lab-v3), [opus](https://github.com/Milbaxter/dsh-small-model-lab-opus), [opus v2](https://github.com/Milbaxter/dsh-small-model-lab-opus-v2)). Paused; no capability improvement established.
 - [Northlight Institute](https://github.com/Milbaxter/northlight-institute) — Deployment and operating setup for a shared OpenClaw assistant on Discord, plus a small institute website.
 - [Cursor Ripple](https://github.com/Milbaxter/cursor-ripple) — Tiny native macOS cursor companions that show when Codex or Claude Code is working, needs input, or has an unread response, with a [Claude Code plugin](https://github.com/Milbaxter/cursor-ripple-claude-code).
-- [Awesome BTCFi](https://github.com/Milbaxter/awesome-btcfi) — A sourced directory of Bitcoin finance projects, protocols, and tools, with evidence, lifecycle notes, and trust models.
 - [Awesome Helsinki Shared Spaces](https://github.com/Milbaxter/awesome-helsinki-shared-spaces) — A community-maintained directory of Helsinki's shared studios, workshops, and places to meet and collaborate.
 - [Awesome Disease Knowledge](https://github.com/Milbaxter/awesome-disease-knowledge) — A curated list of disease knowledge bases, evidence maps, and research directories, with source and access notes.
 - [Agent Intelligence Lab](https://github.com/Milbaxter/agent-intelligence-lab) — A research plan for scouting and benchmarking improvements to OpenClaw, Hermes, and other agent runtimes across capability, cost, and reliability.
@@ -37,6 +36,8 @@ September and October 2026, newest first. These include games, prototypes, resea
 - [Wordless Conversation Canvas](https://github.com/Milbaxter/wordless-conversation-canvas) — A prototype that turns live conversation into an animated, wordless scene and lets voice commands reshape it.
 - [Jarvis DeepSeek](https://github.com/Milbaxter/jarvis-deepseek) — A local office assistant combining wake-word voice, Codex workers, Mac context, and a TV workspace. Development preview.
 - [Common / Decision Hub](https://github.com/Milbaxter/decision-hub) — A local application for small teams to record decisions, preserve project context, and track open questions.
+- [Awesome BTCFi](https://github.com/Milbaxter/awesome-btcfi) — A sourced directory of Bitcoin finance projects, protocols, and tools, with evidence, lifecycle notes, and trust models.
+- [Awesome ZecFi](https://github.com/Milbaxter/awesome-zecfi) — A sourced directory of Zcash finance projects, protocols, and tools, with evidence, lifecycle notes, and privacy/trust models.
 - [Spout Beta Review](https://github.com/Milbaxter/spout-beta-review-2026-09) — A product review documenting devnet testing, transaction evidence, and recommendations for borrowing and purchase flows.
 
 ## Past Projects
