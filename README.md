@@ -4,14 +4,23 @@ Helsinki and Digital nomad. Building tools and experimenting with AI.
 
 [Elsewhere](https://linktr.ee/maximilianrehn)
 
-## Current Project
-
-- [Run Kitty Run](https://runkittyrun.fun) — A game built for fun using a fleet of 10 agents.
-
 ## Recent Projects
 
-September 2026 additions, newest first. These include prototypes, research plans, reviews, and curated resources; each description reflects the project's current stage.
+September and October 2026, newest first. These include games, prototypes, research plans, reviews, and curated resources; each description reflects the project's current stage.
 
+- [Open Science Engine](https://github.com/Milbaxter/open-science-engine) — A time-locked backtest where AI agents propose disease hypotheses and later published literature grades them. Early stage; no validated results yet.
+- [SUET](https://github.com/Milbaxter/SUET) — Spend Useful Extra Tokens: a fork of V3R1T4S that points idle agent tokens at open problems a computer can check, with four new problem categories.
+- [Open AGI Commons](https://github.com/Milbaxter/open-agi-commons) — Turning spare coding-agent sessions into checked improvements to the software around open models: serving, retrieval, memory, reasoning, and tools.
+- [Colony Commons](https://github.com/Milbaxter/colony-commons) — A plan to fund, integrate, and independently evaluate open agent hives built from existing projects.
+- [Super Intelligence DAO](https://github.com/Milbaxter/super-intelligence-dao) — A DAO any AI agent can join to map and improve the open-source AI stack step by verified step. Phase 0, invite-only.
+- [Run Kitty Run](https://runkittyrun.fun) — A 3D kitty runner with solo, local co-op, and online lobbies for up to 32 players, built for fun using a fleet of 10 agents.
+- [Emergence Lab](https://github.com/Milbaxter/emergence-lab) — A local research lab where a team of agents chooses questions, runs experiments, and writes reviewed notes within a mission you set.
+- [Abyss Drift](https://github.com/Milbaxter/abyss-drift-ascent) — A procedural Three.js eat-or-be-eaten sea game, in an [ascent](https://github.com/Milbaxter/abyss-drift-ascent) build and an [endless](https://github.com/Milbaxter/abyss-drift-infinite) build.
+- [Rehost](https://github.com/Milbaxter/rehost) — Old-school custom game lobbies for any browser game, in the spirit of the WC3 custom games screen.
+- [DSH Small-Model Lab](https://github.com/Milbaxter/dsh-small-model-lab) — Testing DeepSeek Harness plugin setups on Qwen3-8B, with [playbook](https://github.com/Milbaxter/dsh-small-model-lab-playbook) and follow-up runs ([v3](https://github.com/Milbaxter/dsh-lab-v3), [opus](https://github.com/Milbaxter/dsh-small-model-lab-opus), [opus v2](https://github.com/Milbaxter/dsh-small-model-lab-opus-v2)). Paused; no capability improvement established.
+- [Northlight Institute](https://github.com/Milbaxter/northlight-institute) — Deployment and operating setup for a shared OpenClaw assistant on Discord, plus a small institute website.
+- [Cursor Ripple](https://github.com/Milbaxter/cursor-ripple) — Tiny native macOS cursor companions that show when Codex or Claude Code is working, needs input, or has an unread response, with a [Claude Code plugin](https://github.com/Milbaxter/cursor-ripple-claude-code).
+- [Awesome BTCFi](https://github.com/Milbaxter/awesome-btcfi) — A sourced directory of Bitcoin finance projects, protocols, and tools, with evidence, lifecycle notes, and trust models.
 - [Awesome Helsinki Shared Spaces](https://github.com/Milbaxter/awesome-helsinki-shared-spaces) — A community-maintained directory of Helsinki's shared studios, workshops, and places to meet and collaborate.
 - [Awesome Disease Knowledge](https://github.com/Milbaxter/awesome-disease-knowledge) — A curated list of disease knowledge bases, evidence maps, and research directories, with source and access notes.
 - [Agent Intelligence Lab](https://github.com/Milbaxter/agent-intelligence-lab) — A research plan for scouting and benchmarking improvements to OpenClaw, Hermes, and other agent runtimes across capability, cost, and reliability.
